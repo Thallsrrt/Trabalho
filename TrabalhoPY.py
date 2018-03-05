@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/pyhton
 #-*- coding: utf8 -*-
   
 import os
